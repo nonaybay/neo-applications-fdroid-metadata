@@ -3,6 +3,12 @@ b2fc8b09146c720efdefedd5a2696192  com.machiav3lli.fdroid/en-US/changelogs/912.tx
 622c91ef4a7783604e371923e100aec6  com.machiav3lli.fdroid/en-US/full_description.txt
 fa7af715b0648f1c40134e8b90a1cccc  com.machiav3lli.fdroid/en-US/short_description.txt
 818b0c3a2bf55890d71b2f5f211943f6  com.machiav3lli.fdroid/en-US/images/icon.png
+859e4fad847bfc49ace93d1db212e1e9  com.machiav3lli.fdroid.neo/en-US/title.txt
+b2fc8b09146c720efdefedd5a2696192  com.machiav3lli.fdroid.neo/en-US/changelogs/912.txt
+622c91ef4a7783604e371923e100aec6  com.machiav3lli.fdroid.neo/en-US/full_description.txt
+fa7af715b0648f1c40134e8b90a1cccc  com.machiav3lli.fdroid.neo/en-US/short_description.txt
+818b0c3a2bf55890d71b2f5f211943f6  com.machiav3lli.fdroid.neo/en-US/images/icon.png
+babbaf332fabb3b2e3d30edcd1a57af2  com.machiav3lli.fdroid.neo.yml
 babbaf332fabb3b2e3d30edcd1a57af2  com.machiav3lli.fdroid.yml
 96b4ed111e3a0f24f47b80aa1f2d9488  com.saggitt.omega/en-US/title.txt
 fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega/en-US/changelogs/922.txt
@@ -10,7 +16,7 @@ fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega/en-US/changelogs/922.txt
 a05add35929f0ff417381feca96cbeff  com.saggitt.omega/en-US/short_description.txt
 d41d8cd98f00b204e9800998ecf8427e  com.saggitt.omega/en-US/video.txt
 24c65d18ff9059871ebc638dc0deff4d  com.saggitt.omega/en-US/images/icon.png
-32239fa472b5d355d1f5b21fcd310b9c  com.saggitt.omega.debug/en-US/title.txt
+cd419bb2e7b56f4de8ba7a6f001ab378  com.saggitt.omega.debug/en-US/title.txt
 fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega.debug/en-US/changelogs/922.txt
 3d461b0e699cb465bbfa4b1f1cc49b67  com.saggitt.omega.debug/en-US/full_description.txt
 a05add35929f0ff417381feca96cbeff  com.saggitt.omega.debug/en-US/short_description.txt
