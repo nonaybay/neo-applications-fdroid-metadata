@@ -4,6 +4,7 @@ b2fc8b09146c720efdefedd5a2696192  com.machiav3lli.fdroid/en-US/changelogs/912.tx
 fa7af715b0648f1c40134e8b90a1cccc  com.machiav3lli.fdroid/en-US/short_description.txt
 818b0c3a2bf55890d71b2f5f211943f6  com.machiav3lli.fdroid/en-US/images/icon.png
 859e4fad847bfc49ace93d1db212e1e9  com.machiav3lli.fdroid.neo/en-US/title.txt
+4a8721f071446871cbbf8bfff2a31269  com.machiav3lli.fdroid.neo/en-US/changelogs/913.txt
 b2fc8b09146c720efdefedd5a2696192  com.machiav3lli.fdroid.neo/en-US/changelogs/912.txt
 622c91ef4a7783604e371923e100aec6  com.machiav3lli.fdroid.neo/en-US/full_description.txt
 fa7af715b0648f1c40134e8b90a1cccc  com.machiav3lli.fdroid.neo/en-US/short_description.txt
@@ -23,6 +24,13 @@ a05add35929f0ff417381feca96cbeff  com.saggitt.omega.debug/en-US/short_descriptio
 d41d8cd98f00b204e9800998ecf8427e  com.saggitt.omega.debug/en-US/video.txt
 24c65d18ff9059871ebc638dc0deff4d  com.saggitt.omega.debug/en-US/images/icon.png
 f65b76e4b934ca41755f4d6a722cb512  com.saggitt.omega.debug.yml
+7369fdb696ecb0bbc50d5536dbc58c3a  com.saggitt.omega.neo/en-US/title.txt
+fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega.neo/en-US/changelogs/922.txt
+3d461b0e699cb465bbfa4b1f1cc49b67  com.saggitt.omega.neo/en-US/full_description.txt
+a05add35929f0ff417381feca96cbeff  com.saggitt.omega.neo/en-US/short_description.txt
+d41d8cd98f00b204e9800998ecf8427e  com.saggitt.omega.neo/en-US/video.txt
+24c65d18ff9059871ebc638dc0deff4d  com.saggitt.omega.neo/en-US/images/icon.png
+f65b76e4b934ca41755f4d6a722cb512  com.saggitt.omega.neo.yml
 f65b76e4b934ca41755f4d6a722cb512  com.saggitt.omega.yml
 1ebbd3e34237af26da5dc08a4e440464  LICENSE
 cc9eab09ed7fbca730ab50420bc02125  README.md
