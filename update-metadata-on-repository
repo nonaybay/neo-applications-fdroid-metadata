@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+metadata="$NEOAPPFDROIDREPO/metadata/"
+
+for file in *; do
+	cp -ruv $file $metadata
+done

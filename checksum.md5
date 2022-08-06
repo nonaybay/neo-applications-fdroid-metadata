@@ -17,14 +17,14 @@ fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega/en-US/changelogs/922.txt
 a05add35929f0ff417381feca96cbeff  com.saggitt.omega/en-US/short_description.txt
 d41d8cd98f00b204e9800998ecf8427e  com.saggitt.omega/en-US/video.txt
 24c65d18ff9059871ebc638dc0deff4d  com.saggitt.omega/en-US/images/icon.png
-cd419bb2e7b56f4de8ba7a6f001ab378  com.saggitt.omega.debug/en-US/title.txt
+5153afc37af6ba5b2bfde4d68eb0d679  com.saggitt.omega.debug/en-US/title.txt
 fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega.debug/en-US/changelogs/922.txt
 3d461b0e699cb465bbfa4b1f1cc49b67  com.saggitt.omega.debug/en-US/full_description.txt
 a05add35929f0ff417381feca96cbeff  com.saggitt.omega.debug/en-US/short_description.txt
 d41d8cd98f00b204e9800998ecf8427e  com.saggitt.omega.debug/en-US/video.txt
 24c65d18ff9059871ebc638dc0deff4d  com.saggitt.omega.debug/en-US/images/icon.png
 f65b76e4b934ca41755f4d6a722cb512  com.saggitt.omega.debug.yml
-7369fdb696ecb0bbc50d5536dbc58c3a  com.saggitt.omega.neo/en-US/title.txt
+cd419bb2e7b56f4de8ba7a6f001ab378  com.saggitt.omega.neo/en-US/title.txt
 fbe00c5d57a1bdb3bbd25ba3831823d4  com.saggitt.omega.neo/en-US/changelogs/922.txt
 3d461b0e699cb465bbfa4b1f1cc49b67  com.saggitt.omega.neo/en-US/full_description.txt
 a05add35929f0ff417381feca96cbeff  com.saggitt.omega.neo/en-US/short_description.txt
@@ -34,3 +34,4 @@ f65b76e4b934ca41755f4d6a722cb512  com.saggitt.omega.neo.yml
 f65b76e4b934ca41755f4d6a722cb512  com.saggitt.omega.yml
 1ebbd3e34237af26da5dc08a4e440464  LICENSE
 9bede558f6cc0724f3a19da8e1cf9b5f  README.md
+11718ecec603e9ff5679b0875ed60816  update-metadata-on-repository
